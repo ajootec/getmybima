@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/getmybima/static/css/main.a68eb3a2.css",
-    "main.js": "/getmybima/static/js/main.cc2dcec5.js",
+    "main.css": "/getmybima/static/css/main.5c0d4b2d.css",
+    "main.js": "/getmybima/static/js/main.1bfd8d27.js",
     "static/js/453.a841f409.chunk.js": "/getmybima/static/js/453.a841f409.chunk.js",
     "static/media/getmybima.png": "/getmybima/static/media/getmybima.edd9123ee28eda14de48.png",
     "index.html": "/getmybima/index.html",
-    "main.a68eb3a2.css.map": "/getmybima/static/css/main.a68eb3a2.css.map",
-    "main.cc2dcec5.js.map": "/getmybima/static/js/main.cc2dcec5.js.map",
+    "main.5c0d4b2d.css.map": "/getmybima/static/css/main.5c0d4b2d.css.map",
+    "main.1bfd8d27.js.map": "/getmybima/static/js/main.1bfd8d27.js.map",
     "453.a841f409.chunk.js.map": "/getmybima/static/js/453.a841f409.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a68eb3a2.css",
-    "static/js/main.cc2dcec5.js"
+    "static/css/main.5c0d4b2d.css",
+    "static/js/main.1bfd8d27.js"
   ]
 }
