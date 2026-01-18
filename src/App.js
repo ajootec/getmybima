@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/getmybima">
         <Routes>
           <Route path="/" element={<HomePage />} />
         </Routes>
